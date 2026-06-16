@@ -101,21 +101,6 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia de desenvolvi
 
 ---
 
-## 📰 Últimos Artigos no dev.to
-
-Eu costumo escrever artigos sobre desenvolvimento web e novas tecnologias. Abaixo estão os meus posts mais recentes de forma automatizada:
-
-<!-- START_SECTION:devto -->
-<!-- Os artigos serão inseridos aqui automaticamente pelo GitHub Action -->
-- ✍️ [Como construir interfaces premium com Vanilla CSS](https://dev.to)
-- 🚀 [Por que TypeScript se tornou indispensável em 2026](https://dev.to)
-- 🐋 [Guia prático de Docker para iniciantes](https://dev.to)
-<!-- END_SECTION:devto -->
-
-*(Consulte o arquivo [INSTRUCOES.md](./INSTRUCOES.md) para saber como configurar a automação de artigos no seu perfil).*
-
----
-
 ## 🎵 O que estou ouvindo no Spotify
 
 <div align="center">
