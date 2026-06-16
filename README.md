@@ -35,6 +35,15 @@
   </div>
 </div>
 
+<br/>
+
+<!-- TROFÉUS DO GITHUB -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=metaimpulsobr&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" width="100%" />
+  </a>
+</div>
+
 ---
 
 ## ⚡ Sobre Mim
@@ -97,6 +106,25 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia de desenvolvi
 
   <!-- CARD DE STREAK DE COMMITS -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=metaimpulsobr&theme=black-ice&background=0d1117&fire=ff007f&ring=00f0ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00f0ff&currStreakLabel=ff007f&border=00f0ff" alt="GitHub Streak" width="95%" />
+
+  <br/><br/>
+
+  <!-- GRÁFICO DE ATIVIDADE DE COMMITS -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=metaimpulsobr&bg_color=0d1117&color=00f0ff&line=ff007f&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+
+  <br/><br/>
+
+  <!-- ESTATÍSTICAS WAKATIME (TEMPO DE CÓDIGO) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=metaimpulsobr&theme=radical&bg_color=0d1117&title_color=00f0ff&text_color=ffffff&icon_color=ff007f&border_color=00f0ff&layout=compact" alt="WakaTime Stats" width="95%" />
+
+  <br/><br/>
+
+  <!-- ANIMAÇÃO DE CONTRIBUIÇÃO (SNAKE GAME) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/metaimpulsobr/metaimpulsobr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/metaimpulsobr/metaimpulsobr/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Game" src="https://raw.githubusercontent.com/metaimpulsobr/metaimpulsobr/output/github-contribution-grid-snake.svg" width="95%">
+  </picture>
 </div>
 
 ---
@@ -108,6 +136,18 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia de desenvolvi
   <!-- Substitua o SEU_ID_DO_SPOTIFY nas URLs abaixo para ativar -->
   <a href="https://open.spotify.com/user/SEU_ID_DO_SPOTIFY" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_DO_SPOTIFY&cover_image=true&theme=novatorem" alt="Spotify" width="95%" />
+  </a>
+</div>
+
+---
+
+## ✍️ Livro de Visitas (Guestbook)
+
+Gostou do perfil ou tem alguma sugestão? Fique à vontade para deixar uma mensagem!
+
+<div align="center">
+  <a href="https://github.com/metaimpulsobr/metaimpulsobr/issues/new?title=Mensagem+de+Visita+💬&body=Deixe+seu+recado+aqui!+Fique+à+vontade+para+se+apresentar+e+deixar+links+para+o+seu+perfil." target="_blank">
+    <img src="https://img.shields.io/badge/Deixe_sua_Mensagem-ff007f?style=for-the-badge&logo=github&logoColor=white" alt="Assine o Livro de Visitas" />
   </a>
 </div>
 
