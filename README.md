@@ -112,19 +112,6 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia de desenvolvi
   <!-- GRÁFICO DE ATIVIDADE DE COMMITS -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=metaimpulsobr&bg_color=0d1117&color=00f0ff&line=ff007f&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="95%" />
 
-  <br/><br/>
-
-  <!-- ESTATÍSTICAS WAKATIME (TEMPO DE CÓDIGO) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=metaimpulsobr&theme=radical&bg_color=0d1117&title_color=00f0ff&text_color=ffffff&icon_color=ff007f&border_color=00f0ff&layout=compact" alt="WakaTime Stats" width="95%" />
-
-  <br/><br/>
-
-  <!-- ANIMAÇÃO DE CONTRIBUIÇÃO (SNAKE GAME) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/metaimpulsobr/metaimpulsobr/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/metaimpulsobr/metaimpulsobr/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Game" src="https://raw.githubusercontent.com/metaimpulsobr/metaimpulsobr/output/github-contribution-grid-snake.svg" width="95%">
-  </picture>
 </div>
 
 ---
