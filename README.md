@@ -60,18 +60,20 @@
 
 Aqui estão as principais tecnologias que utilizo no meu dia a dia de desenvolvimento:
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,styledcomponents,nodejs,express,fastify,graphql,mongodb,postgres,prisma,docker,aws,netlify,vercel,git,github,vscode,figma" alt="Minhas Tecnologias" />
-</div>
+### 💻 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents" alt="Frontend" />
+</p>
 
-<details>
-  <summary>💻 Detalhes do meu Stack Tecnológico</summary>
-  <br/>
+### ⚙️ Backend & Banco de Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,graphql,postgres,mongodb,prisma" alt="Backend" />
+</p>
 
-  - **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Styled Components, TailwindCSS.
-  - **Backend & Database:** Node.js, Express, Fastify, REST APIs, GraphQL, PostgreSQL, MongoDB, Prisma ORM.
-  - **DevOps & Ferramentas:** Git, GitHub, Docker, AWS, Netlify, Vercel, VS Code, Figma.
-</details>
+### 🛠️ DevOps & Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,netlify,vercel,git,github,vscode,figma" alt="DevOps & Ferramentas" />
+</p>
 
 ---
 
