@@ -1,11 +1,6 @@
 # 👾 Welcome to my Cyber Space 👾
 
 <div align="center">
-  <!-- BANNER DE APRESENTAÇÃO -->
-  <img src="./assets/banner.png" width="100%" alt="Cyberpunk Banner" />
-
-  <br/><br/>
-
   <!-- CONTADOR DE VISITAS -->
   <img src="https://komarev.com/ghpvc/?username=metaimpulsobr&color=ff007f&style=flat-square&label=VISITANTES" alt="Visitor Counter" />
 
