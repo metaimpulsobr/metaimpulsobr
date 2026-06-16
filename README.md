@@ -61,7 +61,7 @@
 Aqui estão as principais tecnologias que utilizo no meu dia a dia de desenvolvimento:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,postgres,docker,git,github,vscode,figma" alt="Minhas Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,styledcomponents,nodejs,express,fastify,graphql,mongodb,postgres,prisma,docker,aws,netlify,vercel,git,github,vscode,figma" alt="Minhas Tecnologias" />
 </div>
 
 <details>
