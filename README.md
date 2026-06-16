@@ -62,17 +62,17 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia de desenvolvi
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents&theme=light" alt="Frontend" />
 </p>
 
 ### ⚙️ Backend & Banco de Dados
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,graphql,postgres,mongodb,prisma" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,graphql,postgres,mongodb,prisma&theme=light" alt="Backend" />
 </p>
 
 ### 🛠️ DevOps & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,netlify,vercel,git,github,vscode,figma" alt="DevOps & Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,netlify,vercel,git,github,vscode,figma&theme=light" alt="DevOps & Ferramentas" />
 </p>
 
 ---
